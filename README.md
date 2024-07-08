@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @emonfidan
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning ue
 - 💞️ I’m a sophomore at Bilkent
 - 📫 How to reach me eminefidan456@outlook.com
 
