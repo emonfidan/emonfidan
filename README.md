@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @emonfidan
-- 👀 I’m interested in computer science
-- 💞️ I’m a sophomore at Bilkent
-- 📫 How to reach me eminefidan456@outlook.com
+# Hi, I’m Emine Fidan (@emonfidan)
 
-<!---
-emonfidan/emonfidan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Computer Science student at Bilkent University, currently in my junior year. I have a strong interest in software development, artificial intelligence, and IoT technologies. I enjoy working on projects that solve real-world problems and continuously strive to expand my technical skills.
+
+## Contact
+- **Email:** [eminefidan456@outlook.com](mailto:eminefidan456@outlook.com)
+
+Feel free to reach out if you'd like to collaborate or discuss potential opportunities.
